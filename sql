@@ -15,5 +15,7 @@ location varchar(30),
 department number
 );
 
+--final copy
+
 
 thankyou:)
