@@ -7,3 +7,5 @@ select sysdate from dual
 select count(*) from dual
 select * from dual
 select number from dual
+
+thankyou:)
