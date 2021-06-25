@@ -8,4 +8,12 @@ select count(*) from dual
 select * from dual
 select number from dual
 
+create table tbl(
+name varchar(20),
+id number,
+location varchar(30),
+department number
+);
+
+
 thankyou:)
