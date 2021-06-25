@@ -17,5 +17,7 @@ department number
 insert into tbl(name,id,location,department)
 values('jj',12,'ind',10);
 
+--changes done
+
 
 thankyou:)
