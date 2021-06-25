@@ -14,6 +14,8 @@ id number,
 location varchar(30),
 department number
 );
+insert into tbl(name,id,location,department)
+values('jj',12,'ind',10);
 
 
 thankyou:)
